@@ -1,0 +1,3 @@
+ANGULAR EXERCISE 3
+Skills: Components, controllers, ngModel, ngClick
+Create a component named upDownCounter. In its template create an “up” button a “down” button and display a counter that starts at zero. When the up button is clicked, increase the counter by one. When down is clicked, decrease the counter by one. Add three of these upDownCounters to index.html. Notice that each one keeps track of its separate counter.
